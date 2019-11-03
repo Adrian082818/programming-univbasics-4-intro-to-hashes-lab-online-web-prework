@@ -23,6 +23,6 @@ def read_from_hash(hash, key)
 end
 
 def update_counting_hash(hash, key)
-  hash[:apples]
-  update_counting_hash[:apples] += 1
+  hash[:age]
+  update_counting_hash[:age] += 1
 end
